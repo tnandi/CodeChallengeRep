@@ -4,3 +4,9 @@ C:\Projects\TFS\MyFirstProject\TwinPrime\TwinPrime\bin\Debug\TwinPrime.pdb
 C:\Projects\TFS\MyFirstProject\TwinPrime\TwinPrime\obj\Debug\TwinPrime.exe
 C:\Projects\TFS\MyFirstProject\TwinPrime\TwinPrime\obj\Debug\TwinPrime.pdb
 C:\Projects\TFS\MyFirstProject\TwinPrime\TwinPrime\obj\Debug\TwinPrime.csprojResolveAssemblyReference.cache
+D:\GitRepo\CodeChallengeRep\Code Challenges\TwinPrime\TwinPrime\bin\Debug\TwinPrime.exe.config
+D:\GitRepo\CodeChallengeRep\Code Challenges\TwinPrime\TwinPrime\obj\Debug\TwinPrime.exe
+D:\GitRepo\CodeChallengeRep\Code Challenges\TwinPrime\TwinPrime\obj\Debug\TwinPrime.pdb
+D:\GitRepo\CodeChallengeRep\Code Challenges\TwinPrime\TwinPrime\bin\Debug\TwinPrime.exe
+D:\GitRepo\CodeChallengeRep\Code Challenges\TwinPrime\TwinPrime\bin\Debug\TwinPrime.pdb
+D:\GitRepo\CodeChallengeRep\Code Challenges\TwinPrime\TwinPrime\obj\Debug\TwinPrime.csprojResolveAssemblyReference.cache

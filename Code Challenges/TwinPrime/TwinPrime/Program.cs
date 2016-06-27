@@ -16,16 +16,20 @@ namespace TwinPrime
             Stopwatch clock = new Stopwatch();
             clock.Start();
 
-            //call getPrime method
+            ////Repeat for 100 times
+            //for (var i = 0; i < 100; i++)
+            //{
+            //    //call getPrime method
+            //    GetTwinPrimes(maxRange);
+            //}
             GetTwinPrimes(maxRange);
-
             clock.Stop();
             Console.WriteLine("Time elapsed in millisec is : " + clock.ElapsedMilliseconds);
         }
 
         static void GetTwinPrimes(Int32 maxLim)
         {
-            var div = 3162;
+            var div = Math.Sqrt(maxLim);
             var minLim = (maxLim - 1000);
             List<Int32> res = new List<Int32>();
             var isPrime = false;
