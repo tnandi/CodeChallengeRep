@@ -1,0 +1,6 @@
+C:\Projects\TFS\MyFirstProject\TwinPrime\TwinPrime\bin\Debug\TwinPrime.exe.config
+C:\Projects\TFS\MyFirstProject\TwinPrime\TwinPrime\bin\Debug\TwinPrime.exe
+C:\Projects\TFS\MyFirstProject\TwinPrime\TwinPrime\bin\Debug\TwinPrime.pdb
+C:\Projects\TFS\MyFirstProject\TwinPrime\TwinPrime\obj\Debug\TwinPrime.exe
+C:\Projects\TFS\MyFirstProject\TwinPrime\TwinPrime\obj\Debug\TwinPrime.pdb
+C:\Projects\TFS\MyFirstProject\TwinPrime\TwinPrime\obj\Debug\TwinPrime.csprojResolveAssemblyReference.cache
